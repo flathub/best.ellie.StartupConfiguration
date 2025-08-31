@@ -43,7 +43,7 @@
         {
           "type": "git",
           "url": "https://github.com/ellieplayswow/startup-configuration.git",
-          "commit": "4ab0dea4628fc88dd733c632f089ea8eb355b8f1"
+          "commit": "be941401a84a928d37525fcdcf1226628548f5b2"
         },
         "./cargo-sources.json"
       ]
