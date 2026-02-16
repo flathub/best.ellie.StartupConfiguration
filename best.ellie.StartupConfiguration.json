@@ -42,8 +42,8 @@
       "sources": [
         {
           "type": "git",
-          "url": "https://github.com/ellieplayswow/startup-configuration.git",
-          "commit": "be941401a84a928d37525fcdcf1226628548f5b2"
+          "url": "https://codeberg.org/ellie1337/startup-configuration.git",
+          "commit": "217338ebab1cc9e5ab675a5138a4ae972cc90063"
         },
         "./cargo-sources.json"
       ]
