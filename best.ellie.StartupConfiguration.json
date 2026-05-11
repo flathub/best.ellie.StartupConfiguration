@@ -1,7 +1,7 @@
 {
   "id": "best.ellie.StartupConfiguration",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "24.08",
+  "runtime-version": "25.08",
   "base": "com.system76.Cosmic.BaseApp",
   "base-version": "stable",
   "sdk": "org.freedesktop.Sdk",
@@ -43,6 +43,7 @@
         {
           "type": "git",
           "url": "https://codeberg.org/ellie1337/startup-configuration.git",
+          "tag": "v1.0.3",
           "commit": "59810572a6fa899182e48c40272a06ac6a268ed5"
         },
         "./cargo-sources.json"
