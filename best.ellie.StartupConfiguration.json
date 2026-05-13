@@ -15,6 +15,7 @@
     "--talk-name=org.freedesktop.FileManager1",
     "--talk-name=com.system76.CosmicSettingsDaemon",
     "--filesystem=xdg-config/autostart:create",
+    "--filesystem=xdg-config/cosmic:ro",
     "--filesystem=host:ro",
     "--filesystem=home/.local/share/applications:ro",
     "--filesystem=home/.local/share/icons:ro",
