@@ -45,7 +45,7 @@
           "type": "git",
           "url": "https://codeberg.org/ellie1337/startup-configuration.git",
           "tag": "v1.0.4",
-          "commit": "6cff58187ecac0caf9d6a944ef689da5ec3dab23"
+          "commit": "f3ab39d4b3d51fdf72451d47f322fa0f4ac4f774"
         },
         "./cargo-sources.json"
       ]
