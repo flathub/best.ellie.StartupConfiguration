@@ -1,7 +1,7 @@
 {
   "id": "best.ellie.StartupConfiguration",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "25.08",
+  "runtime-version": "26.08",
   "base": "com.system76.Cosmic.BaseApp",
   "base-version": "stable",
   "sdk": "org.freedesktop.Sdk",
@@ -14,6 +14,7 @@
     "--device=dri",
     "--talk-name=org.freedesktop.FileManager1",
     "--talk-name=com.system76.CosmicSettingsDaemon",
+    "--talk-name=com.system76.CosmicSettingsDaemon.*",
     "--filesystem=xdg-config/autostart:create",
     "--filesystem=xdg-config/cosmic:ro",
     "--filesystem=host:ro",
@@ -44,8 +45,8 @@
         {
           "type": "git",
           "url": "https://codeberg.org/ellie1337/startup-configuration.git",
-          "tag": "v1.0.4",
-          "commit": "f3ab39d4b3d51fdf72451d47f322fa0f4ac4f774"
+          "tag": "v1.0.5",
+          "commit": "5487de76782002a64a0a00350f78ab34f5496c14"
         },
         "./cargo-sources.json"
       ]
